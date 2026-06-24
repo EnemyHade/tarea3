@@ -1,1 +1,1 @@
-Este codigo fue basado en unos proyectos anteriores en C+ que aplicaban ayuda en el codigo entregado
+Este codigo fue basado en unos proyectos anteriores en C+ que aplicaban ayuda en el codigo entregado y material entregado en clase.
